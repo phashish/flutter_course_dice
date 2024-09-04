@@ -1,3 +1,3 @@
-# flutter_course_dice
+# Flutter Dice Rolling App
 
-A new Flutter project.
+Simple Rolling Dice app written in Flutter
