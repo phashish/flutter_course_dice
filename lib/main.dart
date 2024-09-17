@@ -13,8 +13,8 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          leading: const Icon(Icons.menu),
-          title: const Text('Dice App'),
+          // leading: const Icon(Icons.menu),
+          title: const Text('Roll a Dice'),
           centerTitle: true,
         ),
         body: const DiceWidget(),
